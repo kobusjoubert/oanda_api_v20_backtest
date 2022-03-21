@@ -77,5 +77,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/oanda_api_v20_backtest.
-
+Bug reports and pull requests are welcome on GitHub at https://github.com/kobusjoubert/oanda_api_v20_backtest.
